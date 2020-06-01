@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "awesome-flash-279002",
+  "private_key_id": "6ce34d292157c21b30ac1eec6d1a1767c59f88a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzFk0iwftmlnPP\n9iYzSFetvaUc8u9V6ol8SRbkWJKMu7xH+eRaatTb7NzZjbrabyk9T+QlRCBefvw7\nbdxF0x2MIKj1FeIZT3GzXh3um3xQdHKtqTMbp64+0pMDFE2v22mZJNC7dZBTU9Ky\n+v5dAfgcUSsPWGxDTdXhevbbY6yuC4OXVeqdsPcuZ9g1jEHK/Vi+aEbPQ1KCdTHG\nqYnKQ7PSpLahqRbHvRyqzJuD2oTyRr0Xif9wrSdY2bOLKlYx/ThuCXSESSZ9WTSh\n0yBt9z+5VRUcBWSEVpDI8lLVX4oR2NG88ZKSxaerxDgp2aYwu4kJi6iSFucNvQ51\nbcRgCKeVAgMBAAECggEASqepUCv9WS6u6Kp8EjS+GDdOdVrwWqiC18TAPkCOFwzL\n2FVb1DVktqlvB2IF2rksP9rmCIL1226kR0Hs6U6wqpGS3VhaAKMViuhZIfa/Q+rH\nQ42dOJIWGSo/DrGQERcuViD6wqqnl5UB6IqpLqx7eZJ8mNELkKMJ3g0ciyhp+8Mu\ndL8lx6ShN+0C9vzFYuPSa858wwquj0LYcYfK3eetFbuLHOPZO4dMKIgtDaLr3OP3\nxjOiGdp9pYMQvW6rbj541fsu+O0whNfTtd24cOP70Qg09FI5IzidXVV9pqSYM0et\nHSWxZP+gMPNRqb37V8/Ot/yE0IsLMzIwxhJ+ssfkoQKBgQDZyoRfmdTi5A6pXWQg\nPOT3FCtvXhGqnfojn+b7j8KRIo3uQOoWKQwfembXT9flllqnVDs1I9nPoWP6nlZb\nDZjOrVTz6m9DUHdtL04ecQg6eY1dobTzhyvmWmM76ErFf+uLq0bGRQhnrkghVLlS\nLp0m4ZJ6JV7uW8AvPdflGuNO4wKBgQDSgYC1dKgyTtzd2K8ZYyFAnA+iIP0EOqzo\noPK3QU1h+zJJT5bW8jIUNFR49d2myD7zaMuGyBjp0f1/WTsMMBGWUHJ89td5m5mC\nWksAgHP2Im6HdXMF9xQFdOdxhKLVloAywhrOmjE+oqvQ/oJoWBJ6XwqHIkgEGy+V\nwCNbvCBBJwKBgAO5rBP6jKKo5ftNpqXKhNwZEzkfccvqUdoEJS5OYjSbU7QslhR0\n9UkgjdvG+Nlrffd4wF6DU3lyuEQUK0P5cpCudFKLwwVyveg3M+3fXxWo+JsOZgr4\nV+7jwujGa2j/bCcCcf54NdGYMJGpYlYeh/+fQiMmun33Qc1NEIFRuWujAoGACC8o\nxeVHNM2EIMvv4tjLzitDIFaP/74YQuMfDKjpTUnq5pbFko3QDKEMN7e3amiWqfgF\nEbRt44lahbz+YrbruCBgkyM1tXCrQzoneFmGKKemDHYwhqbYjG3DIdK6UfuL+G07\nhZTRHVJNw85hW5UxArj3O9HFYwN7kiLqPQLPbjkCgYASyv/k0ao4yNSOd+0umYjc\nZF6xrCz1U9zAs5Grx2/lXxZ8JlP/9kyQ1Q4Q/i4Xt91Q2kKc48lN5qLzA4EmmX/z\nafGrgdxIy40uAFh1vCa7GcB4zw0ZTUTcnGt0pF/gBTvu3GSBxMJfTZphJ2o0b9Oh\nUC2A/cV+8BTiGQ5K4FYCTA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudsql-proxy@awesome-flash-279002.iam.gserviceaccount.com",
+  "client_id": "108698106329018299638",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudsql-proxy%40awesome-flash-279002.iam.gserviceaccount.com"
+}
